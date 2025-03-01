@@ -1,0 +1,28 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f0f0f0;
+}
+
+.App {
+  margin-top: 50px;
+}
+
+button {
+  margin-top: 20px;
+}
+
+input[type="file"] {
+  display: none;
+}
+
+label {
+  cursor: pointer;
+}
+
+#image-upload {
+  display: none;
+}
+
+label[for="image-upload"] {
+  cursor: pointer;
+}
